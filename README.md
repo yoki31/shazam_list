@@ -17,4 +17,3 @@ P.S. Questa pagina a breve non sarà più diponibile, ora è disponibile soltant
 
 ## Author
 Vicentini Tommaso
-"# shazam_list" 
