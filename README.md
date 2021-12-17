@@ -2,7 +2,7 @@
 
 
 ## Prerequisites
-python 3
+[python 3](https://www.python.org/downloads/)
 
 ## Program
 Il programma legge il file creato da shazam (shazamlibrary.csv) contenete la lista delle canzoni precedentemente "Shazammate" e creerà inizialmente un file:
